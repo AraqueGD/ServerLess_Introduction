@@ -1,0 +1,26 @@
+{
+  "name": "serverless_introduction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AraqueGD/ServerLess_Introduction.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AraqueGD/ServerLess_Introduction/issues"
+  },
+  "homepage": "https://github.com/AraqueGD/ServerLess_Introduction#readme",
+  "devDependencies": {
+    "serverless-offline": "^6.8.0"
+  },
+  "dependencies": {
+    "querystring": "^0.2.1"
+  }
+}
